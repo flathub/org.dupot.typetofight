@@ -33,8 +33,8 @@ modules:
     sources:
       - type: archive
         dest: gameArchive
-        url: https://github.com/imikado/dupotTypeToFight/releases/download/1.0.0/bundle.tar.gz
-        sha256: 2702117bf0d7b596c210105882598613b56df82bc4e2d8683437ce279c22c3b9
+        url: https://github.com/imikado/dupotTypeToFight/releases/download/1.1.0/bundle.tar.gz
+        sha256: d689be78f2d530182ac470839172e3a68516bc36de44e76fb6ea0a0d480be633
 
       - type: script
         dest-filename: typetofight.sh
